@@ -18,5 +18,5 @@ Java · Kotlin · SQL · MySQL · Firebase · Git · GitHub · Android Studio
 
 ## Contacto
 
-LinkedIn
-Email
+Linkedin: https://www.linkedin.com/in/francocerullo2
+Email: francocerullo2@gmail.com
