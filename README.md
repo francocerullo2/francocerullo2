@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**francocerullo2/francocerullo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Franco Germán Cerullo, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-Here are some ideas to get you started:
+💻 Actualmente me centro en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Kotlin
+- Android
+- MySQL
+- Firebase
+
+Me encuentro desarrollando proyectos para ampliar mi portfolio y seguir aprendiendo desarrollo de software.
+
+## Tecnologías
+
+Java · Kotlin · SQL · MySQL · Firebase · Git · GitHub · Android Studio
+
+## Contacto
+
+LinkedIn
+Email
