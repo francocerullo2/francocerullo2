@@ -1,8 +1,8 @@
-# ¡Hola! 👋
+# ¡Hola! 
 
 Soy Franco Germán Cerullo, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-💻 Actualmente me centro en:
+Actualmente me centro en:
 
 - Java
 - Kotlin
